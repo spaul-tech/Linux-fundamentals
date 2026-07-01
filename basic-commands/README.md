@@ -7,3 +7,10 @@ Changes the current directory.
 | `cd ..` | Go to the parent directory |
 | `cd ~` | Go to the home directory |
 | `cd /` | Go to the root directory |
+
+
+# `pwd`
+
+Shows current folder
+
+# `ls`
