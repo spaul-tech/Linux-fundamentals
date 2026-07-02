@@ -14,3 +14,15 @@ Changes the current directory.
 Shows current folder
 
 # `ls`
+
+Lists files/folders
+
+|Command|Description|
+|-|-|
+|`ls -l`|Gives detailed list|
+|`ls -a`|Shows hidden files|
+
+# `mkdir`
+
+Makes new directory 
+
